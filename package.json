@@ -1,0 +1,29 @@
+{
+  "name": "jquery-print-preview-plugin",
+  "version": "1.0.1",
+  "description": "jQuery plugin for print preview (modal window)",
+  "main": "./src/jquery.print-preview.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fongoid/jquery-print-preview-plugin.git"
+  },
+  "keywords": [
+    "jquery",
+    "print-preview"
+  ],
+  "author": "Tim Connell",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/fongoid/jquery-print-preview-plugin/issues"
+  },
+  "homepage": "https://github.com/fongoid/jquery-print-preview-plugin#readme",
+  "dependencies": {
+    "jquery": "^2.0.0"
+  }
+}
